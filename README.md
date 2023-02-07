@@ -1,2 +1,2 @@
 # favourite-movies
-Dockerize a web-app (Communication between container to Api &amp; Container to Container communication)
+Dockerize a web-app (Communication between container to Api & Container to Container communication)
